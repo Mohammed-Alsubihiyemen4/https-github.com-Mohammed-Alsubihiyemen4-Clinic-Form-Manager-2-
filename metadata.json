@@ -1,0 +1,6 @@
+{
+  "name": "مستوصف العصار الطبي - Clinic Form Manager",
+  "description": "نظام إدارة النماذج والشهادات والتقارير الطبية لمستوصف العصار الطبي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
